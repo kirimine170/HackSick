@@ -1,0 +1,26 @@
+{
+    "foam.graph.style": {
+        "lineWidth": 2,
+        "particleWidth": 3.0,
+        "background": "#202020",
+        "node": {
+            "note": "#ffffff",
+            "placeholder": "#545454",
+            "tag": "#afeeee",
+            "雑多:Others": "#ff7f7f",
+            "参考文献:Ref": "#7f7fff",
+            "用語集:Words": "#7fff7f",
+            "日記:Diary": "#7b68bb",
+            "解法:WriteUp": "#ffff7f",
+            "undefined0": "#800080",
+            "undefined1": "#ffa500",
+            "undefined3": "#9370db",
+            "undefined4": "#c71585",
+        }
+    },
+    "markdown.marp.themes": [
+        "/.vscode/marp/kurumic.css"
+    ],
+    "markdown.preview.breaks": true,
+    "foam.files.newNotePath": "currentDir"
+}
