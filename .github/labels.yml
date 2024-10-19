@@ -1,0 +1,83 @@
+- color: 0E8A16
+  description: "初めてでも、安心！やってみよう！"
+  name: "Beginner friendly"
+
+- color: C2E0C6
+  description: "指摘内容の重複してるよ"
+  name: "Close: Duplicate"
+
+- color: C2E0C6
+  description: "指摘内容がそもそも違うよ"
+  name: "Close: Invalid"
+
+- color: C2E0C6
+  description: "指摘内容の対応はしないよ(できないよ)"
+  name: "Close: Wontfix"
+
+- color: FEF2C0
+  description: "追加して欲しい機能や文書だよ～"
+  name: "Feedback: Feature request"
+
+- color: FEF2C0
+  description: "質問だよ～"
+  name: "Feedback: Question"
+
+- color: 0E8A16
+  description: "いいね！"
+  name: "Good Issue"
+
+- color: FBCA04
+  description: "解決方法決まらない、たす…けて…"
+  name: "Help wanted"
+
+- color: E99695
+  description: "やべぇよ…"
+  name: "Priority: Critical"
+
+- color: C2E0C6
+  description: "余裕ある時でおｋ"
+  name: "Priority: Low"
+
+- color: B60205
+  description: "バグってるやんけ！"
+  name: "Problem: Bug"
+
+- color: B60205
+  description: "これ公開しちゃダメだろ！"
+  name: "Problem: Security"
+
+- color: D4C5F9
+  description: "議論中～"
+  name: "Status: Discussion"
+
+- color: D4C5F9
+  description: "確認待ち～"
+  name: "Status: Confirm needed"
+
+- color: D4C5F9
+  description: "設計待ち～"
+  name: "Status: Design needed"
+
+- color: D4C5F9
+  description: "修正待ち～"
+  name: "Status: Fix needed"
+
+- color: D4C5F9
+  description: "レビュー待ち～"
+  name: "Status: Review needed"
+
+- color: 0052CC
+  description: "構成・設計に関して"
+  name: "Type: Design"
+
+- color: 0052CC
+  description: "資料に関して"
+  name: "Type: Documentation"
+
+- color: 0052CC
+  description: "こんなの思いついたぜよ？"
+  name: "Type: Idea"
+
+- color: 0052CC
+  description: "企画について"
+  name: "Type: Proposal"
