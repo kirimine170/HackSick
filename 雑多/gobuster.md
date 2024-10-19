@@ -1,8 +1,8 @@
-<!-- ---
-title: "{なんでもいいんだよぉ！}"
+---
+title: "gobuster"
 type: "雑多:Others"
-tags: "雑多 Others Other template"
---- -->
+tags: "雑多 Others Other Tool"
+---
 
 # gobuster
 
